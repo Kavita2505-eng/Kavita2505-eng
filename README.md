@@ -172,6 +172,10 @@ A responsive task-management application featuring authentication simulation, CR
 
 ## 🧠 Problem Solving
 
+---
+
+## 🧠 Problem Solving
+
 <div align="center">
 
 ### 272+ LeetCode Problems
@@ -181,7 +185,15 @@ A responsive task-management application featuring authentication simulation, CR
 🏆 50-Day Consistency Badge  
 🏆 100-Day Consistency Badge
 
-[![LeetCode Profile](https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kavita-07/)
+[![LeetCode](https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kavita-07/)
+
+<br/><br/>
+
+### 🟢 GeeksforGeeks
+
+**Data Structures & Algorithms · Problem Solving · Core CS**
+
+[![GeeksforGeeks](https://img.shields.io/badge/View_GFG_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kavitasi9399)
 
 </div>
 
