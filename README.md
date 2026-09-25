@@ -201,9 +201,15 @@ A responsive task-management application featuring authentication simulation, CR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kavita2505-eng&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+<img src="https://streak-stats.demolab.com?user=Kavita2505-eng&hide_border=true&theme=default" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=Kavita2505-eng&hide_border=true&theme=default" />
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kavita2505-eng)
 
 </div>
 
